@@ -8,4 +8,4 @@ In order to reproducde the results, please follow these steps:
 2. keep only movies.csv and rating.csv
 3. Run data_cleaning.ipynb to reproducing clean data inside data/clean_data
 4. Run StatML_project.ipynb for reproducing results of model 1 (KNN) and model 2 (SVD)
-5. Run GRU.ipynb for reproducing results of model 3 (GRU)
+5. Run GRU.ipynb for reproducing results of model 3 (GRU) (this may take up to 5 hours !!!)
